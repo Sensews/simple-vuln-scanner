@@ -1,0 +1,11 @@
+# Scanner de Vulnerabilidades - Dependências
+# ==========================================
+
+# Para requisições HTTP/HTTPS
+requests>=2.25.1
+
+# Para cores no terminal
+colorama>=0.4.4
+
+# Para validação de IPs
+ipaddress>=1.0.23
